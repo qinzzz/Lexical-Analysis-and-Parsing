@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/qinzzz/Desktop/编译原理/2-parsing/pl0.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+set.h
+/Users/qinzzz/Desktop/编译原理/2-parsing/set.h
+pl0.h
+/Users/qinzzz/Desktop/编译原理/2-parsing/pl0.h
+
+/Users/qinzzz/Desktop/编译原理/2-parsing/pl0.h
+stdio.h
+-
+
+/Users/qinzzz/Desktop/编译原理/2-parsing/set.h
+
